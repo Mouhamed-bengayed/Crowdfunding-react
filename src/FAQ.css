@@ -1,0 +1,395 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Magra:400,700|Roboto:400,500|Karla:400,700");
+* {
+  box-sizing: border-box;
+}
+.border-3-5px-peach-cream {
+  border: 3.5px solid var(--peach-cream);
+}
+.magra-bold-peach-cream-26-4px {
+  color: var(--peach-cream);
+  font-family: "Magra", Helvetica;
+  font-size: 26.4px;
+  font-style: normal;
+  font-weight: 700;
+}
+.magra-bold-shampoo-30px {
+  color: var(--shampoo);
+  font-family: "Magra", Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.magra-normal-black-30px {
+  color: black;
+  font-family: "Magra", Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.magra-normal-shampoo-30px {
+  color: var(--shampoo);
+  font-family: "Magra", Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+.page12 {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 4718px;
+  overflow: hidden;
+  width: 1366px;
+}
+.page12 .aide-aux-cofunders {
+  height: 39px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+.page12 .connexion {
+  height: 34px;
+  left: 1128px;
+  letter-spacing: 0px;
+  line-height: 34px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+.page12 .group-114 {
+  height: 69px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 78px;
+}
+.page12 .group-119 {
+  height: 69px;
+  position: relative;
+  width: 1301px;
+}
+.page12 .overlap-group {
+  height: 287px;
+  margin-top: 63px;
+  position: relative;
+  width: 1344px;
+}
+.page12 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  display: flex;
+  height: 74px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 692px;
+  padding: 15px 41px;
+}
+.page12 .overlap-group10 {
+  border-radius: 67.69583129882812px;
+  height: 61px;
+  left: 849px;
+  position: absolute;
+  top: 0px;
+  width: 221px;
+}
+.page12 .overlap-group11 {
+  border-radius: 67.69583129882812px;
+  height: 61px;
+  left: 116px;
+  position: absolute;
+  top: 1px;
+  width: 313px;
+}
+.page12 .overlap-group12 {
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1265px;
+}
+.page12 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--neptune);
+  display: flex;
+  height: 149px;
+  min-width: 1404px;
+  padding: 39.7px 30.2px;
+}
+.page12 .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  display: flex;
+  height: 86px;
+  margin-top: 96px;
+  min-width: 859px;
+  padding: 22px 36px;
+}
+.page12 .overlap-group4 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--neptune);
+  border-radius: 97px;
+  display: flex;
+  height: 114px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  margin-top: 17px;
+  min-width: 610px;
+  padding: 34px 156px;
+}
+.page12 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  display: flex;
+  height: 86px;
+  margin-top: 57px;
+  min-width: 859px;
+  padding: 13px 11px;
+}
+.page12 .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  display: flex;
+  height: 86px;
+  margin-top: 15px;
+  min-width: 859px;
+  padding: 19px 31px;
+}
+.page12 .overlap-group7 {
+  align-items: flex-end;
+  background-color: var(--neon-carrot);
+  display: flex;
+  height: 74px;
+  margin-top: 35px;
+  min-width: 692px;
+  padding: 10px 45px;
+}
+.page12 .overlap-group8 {
+  align-self: center;
+  height: 1400px;
+  margin-left: 6px;
+  margin-top: 36px;
+  position: relative;
+  width: 1290px;
+}
+.page12 .overlap-group9 {
+  height: 62px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 755px;
+}
+.page12 .rectangle-16 {
+  border-radius: 67.69583129882812px;
+  height: 61px;
+  left: 442px;
+  position: absolute;
+  top: 1px;
+  width: 313px;
+}
+.page12 .rectangle-17 {
+  border-radius: 67.69583129882812px;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 313px;
+}
+.page12 .rectangle-17-1 {
+  border-radius: 67.69583129882812px;
+  height: 61px;
+  left: 1103px;
+  position: absolute;
+  top: 0px;
+  width: 192px;
+}
+.page12 .rectangle-18 {
+  border-radius: 67.69583129882812px;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 221px;
+}
+.page12 .rectangle-41 {
+  background-color: var(--neon-carrot);
+  height: 86px;
+  left: 4px;
+  position: absolute;
+  top: 1314px;
+  width: 859px;
+}
+.page12 .rectangle-43 {
+  background-color: var(--neon-carrot);
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 692px;
+}
+.page12 .sinscrire {
+  height: 34px;
+  left: 61px;
+  letter-spacing: 0px;
+  line-height: 34px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 108px;
+}
+.page12 .surname {
+  align-self: center;
+  height: 390px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  margin-right: 46px;
+  margin-top: 25px;
+  min-height: 390px;
+  width: 1246px;
+}
+.page12 .surname-1 {
+  height: 1326px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  position: absolute;
+  top: 0px;
+  width: 1290px;
+}
+.page12 .text-1 {
+  align-self: center;
+  height: 546px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  margin-right: 55px;
+  margin-top: 36px;
+  min-height: 546px;
+  width: 1223px;
+}
+.page12 .text-10 {
+  height: 39px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  margin-left: 88px;
+  margin-top: 7px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+.page12 .text-11 {
+  align-self: flex-end;
+  height: 156px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  margin-right: -159px;
+  margin-top: 30px;
+  min-height: 156px;
+  width: 1456px;
+}
+.page12 .text-12 {
+  height: 39px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+.page12 .text-13 {
+  height: 34px;
+  left: 38px;
+  letter-spacing: 0px;
+  line-height: 34px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 232px;
+}
+.page12 .text-14 {
+  height: 34px;
+  left: 484px;
+  letter-spacing: 0px;
+  line-height: 34px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+  width: 215px;
+}
+.page12 .text-2 {
+  height: 39px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+.page12 .text-3 {
+  height: 234px;
+  left: 49px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  position: absolute;
+  top: 53px;
+  width: 1295px;
+}
+.page12 .text-4 {
+  height: 39px;
+  left: 23px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 922px;
+}
+.page12 .text-5 {
+  height: 39px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+.page12 .text-6 {
+  height: 39px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+.page12 .text-7 {
+  align-self: center;
+  height: 468px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  margin-left: 10px;
+  margin-top: 28px;
+  min-height: 468px;
+  width: 1286px;
+}
+.page12 .text-8 {
+  height: 39px;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  position: absolute;
+  top: 1327px;
+  white-space: nowrap;
+}
+.page12 .text-9 {
+  height: 39px;
+  letter-spacing: 0px;
+  line-height: 38.7px;
+  min-height: 39px;
+  min-width: 560px;
+  white-space: nowrap;
+}
+:root {
+  --neon-carrot: rgba(249, 151, 70, 1);
+  --neptune: rgba(107, 183, 191, 1);
+  --peach-cream: rgba(252, 236, 219, 1);
+  --shampoo: rgba(255, 204, 238, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
