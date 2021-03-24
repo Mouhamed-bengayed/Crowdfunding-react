@@ -1,9 +1,9 @@
 import React from "react";
 import './pageconnexion.css';
 
-function App() {
+ function connexion() {
   return (
-    <Page1
+    <Pageconnexion
       title="Se connecter"
       connexion="Connexion"
       text1="Mot de passe oublié ?"
@@ -13,10 +13,9 @@ function App() {
   );
 }
 
-export default App;
 
 
-function Page1(props) {
+export default function Pageconnexion(props) {
   const { title, connexion, text1, emailAddress, password } = props;
 
   return (
